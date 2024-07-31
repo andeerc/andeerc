@@ -10,6 +10,7 @@ Atuando como **DevOps**, **System Admin**, e **Backend Developer**. Possuo conhe
 - **TypeScript (TS)**
 - **C#**
 - **Rust**
+- **Delphi(Pascal)**
 - **RabbitMQ**
 - **Nginx**
 - **DNS**
