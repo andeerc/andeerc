@@ -15,6 +15,7 @@ Atuando como **DevOps**, **System Admin**, e **Backend Developer**. Possuo conhe
 - **Nginx**
 - **DNS**
 - **Docker**
+- **Ubuntu Server**
 
 Sou apaixonado por criar soluções escaláveis e eficientes e por otimizar a infraestrutura para melhor desempenho e segurança.
 
