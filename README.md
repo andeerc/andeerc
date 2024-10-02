@@ -6,16 +6,37 @@
 
 Atuando como **DevOps**, **System Admin**, e **Backend Developer**. Possuo conhecimento em diversas tecnologias e linguagens, incluindo:
 
+Linguagens:
+
 - **JavaScript (JS)**
 - **TypeScript (TS)**
 - **C#**
 - **Rust**
+- **Python**
 - **Delphi(Pascal)**
+
+Tecnologias e ferramentas:
+
 - **RabbitMQ**
+- **Ubuntu Server**
+- **Authorizer**
+- **Trafik**
 - **Nginx**
 - **DNS**
 - **Docker**
-- **Ubuntu Server**
+
+Também possuo amplo conhecimento e experiências nos seguintes frameworks:
+
+Front:
+- **[Next](https://nextjs.org/)**
+- **[VueJS](https://vuejs.org/)**
+- **[Angular](https://angular.dev/)**
+- **[Nuxt](https://nuxt.com/)**
+
+Back:
+- **[NestJS](https://nestjs.com/)**
+- **[Fastfy](https://fastify.dev)**
+- **[Express](https://expressjs.com/)**
 
 Sou apaixonado por criar soluções escaláveis e eficientes e por otimizar a infraestrutura para melhor desempenho e segurança.
 
