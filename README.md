@@ -20,7 +20,7 @@ Tecnologias e ferramentas:
 - **RabbitMQ**
 - **Ubuntu Server**
 - **Authorizer**
-- **Trafik**
+- **Traefik**
 - **Nginx**
 - **DNS**
 - **Docker**
