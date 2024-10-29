@@ -24,6 +24,8 @@ Tecnologias e ferramentas:
 - **Nginx**
 - **DNS**
 - **Docker**
+- **Docker Swarm**
+- **Linux**
 
 Também possuo amplo conhecimento e experiências nos seguintes frameworks:
 
@@ -32,11 +34,14 @@ Front:
 - **[VueJS](https://vuejs.org/)**
 - **[Angular](https://angular.dev/)**
 - **[Nuxt](https://nuxt.com/)**
+- **[SvelteJS](https://svelte.dev/)**
 
 Back:
 - **[NestJS](https://nestjs.com/)**
 - **[Fastfy](https://fastify.dev)**
 - **[Express](https://expressjs.com/)**
+- **[TypeORM](https://typeorm.io/)**
+- **[PostgreSQL](https://www.postgresql.org/)**
 
 Sou apaixonado por criar soluções escaláveis e eficientes e por otimizar a infraestrutura para melhor desempenho e segurança.
 
