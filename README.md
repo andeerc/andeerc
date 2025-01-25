@@ -67,6 +67,3 @@ Obrigado por visitar meu perfil! Se tiver alguma dúvida ou apenas quiser bater 
 <br><p align="center"><b>Você é o visitante nº </p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{andersondacampo}/count.svg" /></p>
 <br>
-<div>
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/17pfZkt0W9XlPMSM7g6rfp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-  picture" loading="lazy"></iframe>
-</div>
