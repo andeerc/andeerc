@@ -48,13 +48,13 @@ Sou apaixonado por criar soluções escaláveis e eficientes e por otimizar a in
 ## Estatísticas do GitHub 📊
 
 <div align="center">
-  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=andersondacampo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
-  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondacampo&layout=compact&theme=dark&langs_count=16" alt="Top Languages" />  
+  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=andeerc&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andeerc&layout=compact&theme=dark&langs_count=16" alt="Top Languages" />  
 </div>
 
 ## Gráfico de Atividades
 
-[![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=andersondacampo&bg_color=0d1117&color=184d9f&line=14376c&point=2d78f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=andeerc&bg_color=0d1117&color=184d9f&line=14376c&point=2d78f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Entre em Contato
 
@@ -65,5 +65,5 @@ Sou apaixonado por criar soluções escaláveis e eficientes e por otimizar a in
 Obrigado por visitar meu perfil! Se tiver alguma dúvida ou apenas quiser bater um papo, sinta-se à vontade para entrar em contato.
 
 <br><p align="center"><b>Você é o visitante nº </p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{andersondacampo}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{andeerc}/count.svg" /></p>
 <br>
