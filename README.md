@@ -66,10 +66,6 @@ Sou **Senior Full Stack Developer** com forte vocação em **DevOps**, especiali
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andeerc&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andeerc&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
