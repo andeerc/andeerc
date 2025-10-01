@@ -68,7 +68,6 @@ Sou **Senior Full Stack Developer** com forte vocação em **DevOps**, especiali
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andeerc&layout=compact&theme=tokyonight&langs_count=10&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=andeerc&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" alt="Wakatime Stats" />
 </div>
 
 ## 📈 Gráfico de Contribuições
