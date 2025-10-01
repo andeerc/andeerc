@@ -2,15 +2,19 @@ name: Waka Readme
 
 on:
   schedule:
-    # Roda a cada 24 horas
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write  # Adicione estas permissões
+  
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+      
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
