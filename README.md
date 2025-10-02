@@ -1,22 +1,22 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Sou+Anderson+da+Campo!;Senior+Full+Stack+Developer;DevOps+Enthusiast;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;I'm+Anderson!;Senior+Full+Stack+Developer;DevOps+Enthusiast;SysAdmin+%26+GitLab+Expert;" />
 </h1>
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonc-dev)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andersonc.dev.br)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonc@andersonc.devb.br)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersonc@andersonc.dev.br)
 
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Sou **Senior Full Stack Developer** com forte vocação em **DevOps**, especializado em arquitetura de soluções escaláveis, automação de infraestrutura e desenvolvimento de ponta a ponta. Apaixonado por criar sistemas eficientes, seguros e de alta performance utilizando as tecnologias mais modernas do mercado.
+I'm a **Senior Full Stack Developer** with a strong vocation in **DevOps** and **SysAdmin**, specialized in scalable solution architecture, infrastructure automation, and end-to-end development. Passionate about creating efficient, secure, and high-performance systems using the most modern technologies on the market.
 
-## 💻 Stack Tecnológica
+## 💻 Tech Stack
 
-### Linguagens de Programação
+### Programming Languages
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -48,10 +48,12 @@ Sou **Senior Full Stack Developer** com forte vocação em **DevOps**, especiali
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
-### DevOps & Infraestrutura
+### DevOps & Infrastructure
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Swarm" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
   <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
@@ -59,22 +61,22 @@ Sou **Senior Full Stack Developer** com forte vocação em **DevOps**, especiali
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </div>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=andeerc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=andeerc&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
-## 📈 Gráfico de Contribuições
+## 📈 Contribution Graph
 
 <div align="center">
   
-[![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=andeerc&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andeerc&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-## 🏆 Troféus do GitHub
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -82,35 +84,38 @@ Sou **Senior Full Stack Developer** com forte vocação em **DevOps**, especiali
 
 </div>
 
-## 🎯 Áreas de Especialização
+## 🎯 Areas of Expertise
 
 ```typescript
 const anderson = {
   role: "Senior Full Stack Developer",
-  vocacao: "DevOps Engineer",
+  vocation: "DevOps Engineer & SysAdmin",
   specialties: [
-    "Arquitetura de Microsserviços",
-    "Containerização e Orquestração",
-    "CI/CD Pipeline",
-    "Automação de Infraestrutura",
-    "Otimização de Performance",
-    "Segurança de Aplicações"
+    "Microservices Architecture",
+    "Containerization and Orchestration",
+    "CI/CD Pipeline with GitLab",
+    "Infrastructure Automation",
+    "Performance Optimization",
+    "Application Security",
+    "Linux System Administration",
+    "GitLab Administration & Management"
   ],
   currentFocus: [
-    "Criando bibliotecas open source",
-    "Disseminando conhecimento",
+    "Creating open source libraries",
+    "Spreading knowledge",
     "Elysia + Drizzle + Better Auth",
-    "Modern DevOps practices"
+    "Modern DevOps practices",
+    "GitLab CI/CD optimization"
   ],
-  funFact: "Apaixonado por criar soluções escaláveis e compartilhar conhecimento! 🚀📚"
+  funFact: "Passionate about creating scalable solutions and sharing knowledge! 🚀📚"
 };
 ```
 
-## 📫 Vamos Conectar?
+## 📫 Let's Connect?
 
 <div align="center">
 
-Estou sempre aberto para discutir projetos interessantes, oportunidades de colaboração ou apenas trocar uma ideia sobre tecnologia!
+I'm always open to discussing interesting projects, collaboration opportunities, or just exchanging ideas about technology!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonc-dev)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andersonc.dev.br)
@@ -122,6 +127,6 @@ Estou sempre aberto para discutir projetos interessantes, oportunidades de colab
 
 <div align="center">
 
-**Obrigado pela visita! ⭐**
+**Thanks for visiting! ⭐**
 
 </div>
