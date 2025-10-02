@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;I'm+Anderson!;Senior+Full+Stack+Developer;DevOps+Enthusiast;SysAdmin+%26+GitLab+Expert;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;I'm+Anderson!;Senior+Full+Stack+Developer;DevOps+Enthusiast;SysAdmin+%26+GitLab+Expert;Automation+Specialist;" />
 </h1>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Full Stack Developer** with a strong vocation in **DevOps** and **SysAdmin**, specialized in scalable solution architecture, infrastructure automation, and end-to-end development. Passionate about creating efficient, secure, and high-performance systems using the most modern technologies on the market.
+I'm a **Senior Full Stack Developer** with a strong vocation in **DevOps** and **SysAdmin**, specialized in scalable solution architecture, infrastructure automation, and end-to-end development. Passionate about creating efficient, secure, and high-performance systems using the most modern technologies on the market. Expert in **process automation** through custom scripts and workflow orchestration tools like **n8n**.
 
 ## 💻 Tech Stack
 
@@ -22,6 +22,8 @@ I'm a **Senior Full Stack Developer** with a strong vocation in **DevOps** and *
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi" />
 </div>
@@ -61,6 +63,15 @@ I'm a **Senior Full Stack Developer** with a strong vocation in **DevOps** and *
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </div>
 
+### Automation & Workflow
+<div align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Bash_Scripts-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash Scripts" />
+  <img src="https://img.shields.io/badge/Python_Scripts-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Scripts" />
+  <img src="https://img.shields.io/badge/Node.js_Scripts-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Scripts" />
+  <img src="https://img.shields.io/badge/Cron_Jobs-4EAA25?style=for-the-badge&logo=linux&logoColor=white" alt="Cron Jobs" />
+</div>
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -98,14 +109,27 @@ const anderson = {
     "Performance Optimization",
     "Application Security",
     "Linux System Administration",
-    "GitLab Administration & Management"
+    "GitLab Administration & Management",
+    "Process Automation with n8n",
+    "Custom Scripts (Bash, Python, Node.js)",
+    "Workflow Orchestration",
+    "Task Scheduling & Cron Jobs"
+  ],
+  automationTools: [
+    "n8n - Workflow Automation",
+    "Bash Scripts - System Automation",
+    "Python Scripts - Task Automation",
+    "Node.js Scripts - Process Automation",
+    "GitLab CI/CD - Deployment Automation"
   ],
   currentFocus: [
     "Creating open source libraries",
     "Spreading knowledge",
     "Elysia + Drizzle + Better Auth",
     "Modern DevOps practices",
-    "GitLab CI/CD optimization"
+    "GitLab CI/CD optimization",
+    "n8n workflow automation",
+    "Custom automation scripts"
   ],
   funFact: "Passionate about creating scalable solutions and sharing knowledge! 🚀📚"
 };
